@@ -1,0 +1,19 @@
+
+* {margin: 0; padding: 0; box-sizing: border-box;}
+body {
+  font-family: Arial, sans-serif;
+  background: #fffaf4;
+  color: #2c1a10;
+  line-height: 1.5;
+  text-align: center;
+}
+
+.hero {
+
+  background-image: url(images/Photos/Cafe.png);
+   color: white;
+  text-align: center;
+  padding: 100px 20px;
+  position: relative;
+ 
+}
